@@ -1,0 +1,9 @@
+[project]
+name = "sba"
+version = "0.1.0"
+description = "A security book for ICT professionals"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter-book>=2.1.5",
+]
