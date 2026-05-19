@@ -6,7 +6,7 @@ project:
   description: A security book for ICT professionals
   # keywords: []
   authors: [Michele Schimd]
-  # github:
+  github: https://github.com/skimmy/sbd
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - title: Introduction
